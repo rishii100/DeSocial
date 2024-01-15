@@ -1,5 +1,8 @@
 # DeSocial
 
+![logo](https://github.com/rishii100/DeSocial/assets/98979613/37387db3-1d24-49df-a895-4fa0ba3ecc31)
+
+
 ## Overview
 
 This project aims to create a decentralized and censorship-resistant alternative to traditional centralized social media platforms. By leveraging blockchain technology and peer-to-peer networks, we aim to empower users with control over their data and provide a platform for free expression.
