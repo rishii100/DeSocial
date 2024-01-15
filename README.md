@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Decentralized Twitter project! This project aims to create a decentralized and censorship-resistant alternative to traditional centralized social media platforms. By leveraging blockchain technology and peer-to-peer networks, we aim to empower users with control over their data and provide a platform for free expression.
+This project aims to create a decentralized and censorship-resistant alternative to traditional centralized social media platforms. By leveraging blockchain technology and peer-to-peer networks, we aim to empower users with control over their data and provide a platform for free expression.
 
 ## Features
 
