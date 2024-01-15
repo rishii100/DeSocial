@@ -1,5 +1,4 @@
 # DeSocial
-
 ![logo](https://github.com/rishii100/DeSocial/assets/98979613/37387db3-1d24-49df-a895-4fa0ba3ecc31)
 ## Overview
 
