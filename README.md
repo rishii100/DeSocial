@@ -21,8 +21,8 @@ This project aims to create a decentralized and censorship-resistant alternative
 
 ### Prerequisites
 
-- Node.js: [https://nodejs.org/](https://nodejs.org/)
-- Ethereum Client: [https://ethereum.org/](https://ethereum.org/)
+- [Node.js](https://nodejs.org/)
+- [Ethereum Client](https://ethereum.org/)
 
 ### Installation
 
